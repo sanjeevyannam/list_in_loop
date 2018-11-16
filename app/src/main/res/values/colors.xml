@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="background_gradient_start">#000000</color>
+    <color name="background_gradient_end">#DDDDDD</color>
+    <color name="detail_background">#0096a6</color>
+
+    <!-- App link side panel -->
+    <color name="side_panel_background">#263238</color>
+    <color name="side_panel_header_background">#0277BD</color>
+    <color name="side_panel_item_text">#FFEEEEEE</color>
+
+    <color name="pg_item_background_normal">#669b9b9b</color>
+</resources>
